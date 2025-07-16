@@ -2,7 +2,6 @@
 2.	[Nambiar, Shruti; Yeow, John T. W. - Anna’s Archive](https://pcm.annas-archive.org/scidb/10.1021/am300783d/)
 3.	[Study on Polymer Materials for Development of the Super 100 MGy-Radiation Resistant Motor - Anna’s Archive](https://pcm.annas-archive.org/scidb/10.1295/polymj.36.617/)
 4.	[Radiation and industrial polymers - Anna’s Archive](https://pcm.annas-archive.org/scidb/10.1016/s0079-6700(00)00009-5/)
-5.	[Radiation Processing of Polymer Materials and Its Industrial Applications - Keizo Makuuchi, Song Cheng - Google Books](https://books.google.co.uk/books?hl=en&lr=&id=rmXWy9pe8ZYC&oi=fnd&pg=PA201&dq=radiation+resistant+polymer&ots=4T3kRGPskL&sig=-nyDhNdpR8LF4r92CrxwutJu9ZQ#v=onepage&q=radiation%20resistant%20polymer&f=false)
 6.	[Radiation-resistant polypropylene improved by a compatibilizer - Anna’s Archive](https://pcm.annas-archive.org/scidb/10.1016/s0141-3910(97)00099-2/)
 7.	[SPIE Proceedings [SPIE Optical Science and Technology, the SPIE 49th Annual Meeting - Denver, CO (Monday 2 August 2004)] Photonics for Space Environments IX - Radiation-resistant polymer-based photonics for space applications - Anna’s Archive](https://pcm.annas-archive.org/scidb/10.1117/12.556659/)
 8.	[[IEEE 2010 35th IEEE Photovoltaic Specialists Conference (PVSC) - Honolulu, HI, USA (2010.06.20-2010.06.25)] 2010 35th IEEE Photovoltaic Specialists Conference - Space radiation resistant hybrid and polymer materials for solar cells - Anna’s Archive](https://pcm.annas-archive.org/scidb/10.1109/pvsc.2010.5617191/)
