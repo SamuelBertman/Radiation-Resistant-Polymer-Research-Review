@@ -113,7 +113,7 @@ Temperature, humidity, long term exposure and aging, self healing, combined radi
 # 3. Study on Polymer Materials for Development of the Super 100 MGy-Radiation Resistant Motor
 
 **Authors + year**  
-Yasuhiko O NISHI, Tetsuya S HIGA et al
+Yasuhiko O NISHI, Tetsuya S HIGA et al 2004
 
 **Link**  
 https://pcm.annas-archive.org/scidb/10.1295/polymj.36.617/
