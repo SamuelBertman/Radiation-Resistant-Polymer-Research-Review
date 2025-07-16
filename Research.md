@@ -219,3 +219,55 @@ radiation crosslinking effectively improves their properties,
 
 **Limitations/missing tests**  
 temp, vacuum, pressure, exposure time
+
+# 5. Radiation-resistant polypropylene improved by a compatibilizer
+
+**Authors + year:**  
+Fumio Yoshii et al 1997
+
+**Link:**  
+https://pcm.annas-archive.org/scidb/10.1016/s0141-3910(97)00099-2/
+
+---
+
+### What Polymer/blend  
+CPP = Copolymer of polypropylene-co-2.5% polyethylene, PPI = Polypropylene with a melt flow index of 1, PPIO = Polypropylene with a melt flow index of 10
+
+### Modified/reinforced  
+modified with compatibilizers (CPB-2) which were blended with polypropylene and CPP 
+
+### Radiation type tested  
+gamma and e-beam
+
+### Exposure condition of radiation  
+50kGy + 100kGy, 25kGy, 20kGy, 40kGy, 60kGy and up to 100kGy, 10kGy/h for gamma
+
+### Temperature/vacuum conditions  
+not specified
+
+### Properties tested before/after  
+elongation at break, haze value, tensile strength, crystallization and melting behaviour, spherulite size and morphology, x-ray diffraction profiles
+
+### Was there measurable degradation  
+without compatibilizer, elongation dropped significantly 50% reduction, after irradiation, samples without CPB-2 lost elongation rapidly during storage, samples with retained elongation even after 16 weeks
+
+### Any quantified efficiency  
+50% reduction of elongation break without compatibilizer CPB-2, PPI and CPP retained about 87% elongation with CPB-2, dropped to near 0 without CPB-2, CPP w/ 10% CPB-2 retained about 70% elongation at 50kGy, PPI w/ 5% CPB-2 retained 98% elongation at 50kGy
+
+### Did polymer self heal after  
+not specified
+
+### How was healing quantified  
+not specified
+
+### Environmental limits tested  
+radiation resistance
+
+### What was is tested for  
+radiation resistance
+
+### Test LEO or space conditions  
+no
+
+### Limitations/missing tests  
+temp, vacuum, no LEO or space conditions, pressure, long term aging, self-healing, limited radiation types, only focused on elongation
