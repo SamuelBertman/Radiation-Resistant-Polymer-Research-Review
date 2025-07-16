@@ -1,4 +1,4 @@
-1. **Paper title**  
+# 1. **Paper title**  
 Radiation resistant polymer–carbon nanotube nanocomposite thin films
 
 **Authors + year**  
