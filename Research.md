@@ -110,3 +110,62 @@ Not specified
 
 ## Limitations/missing tests  
 Temperature, humidity, long term exposure and aging, self healing, combined radiation types, quantified shielding efficiency under realistic conditions, outgassing and volatile release, electrical and thermal property changes, optical properties
+
+# 3. Study on Polymer Materials for Development of the Super 100 MGy-Radiation Resistant Motor
+
+**Authors + year**  
+Yasuhiko O NISHI, Tetsuya S HIGA et al
+
+**Link**  
+https://pcm.annas-archive.org/scidb/10.1295/polymj.36.617/
+
+---
+
+### What Polymer/blend  
+Silicone polymer coated on VECRUSÒ sheet, containing Aluminum (Al) micro-flakes
+
+### Modified/reinforced  
+reinforced with 10 wt% aluminium micro-flakes
+
+### Radiation type tested  
+gamma, up to 100MGy, electron beam irradiation
+
+### Temperature/vacuum conditions  
+not specified
+
+### Properties tested before/after  
+visual appearance, electrical insulation behaviour, shielding, degredation (inferred via only observation + performance stability - not thermal or mechanical tests
+
+### Was there measurable degradation  
+yes, colour change, no significant performance drop, Al flakes reduced degradation, motor still operable after 
+
+### Any quantified efficiency  
+| Load (%) | Efficiency (%), Origin (pre-irradiation) | Efficiency (%), After 100 MGy |  
+| -------- | --------------------------------------- | ----------------------------- |  
+| 25       | 57.6                                    | 57.1                          |  
+| 50       | 70.5                                    | 70.2                          |  
+| 75       | 74.5                                    | 74.4                          |  
+| 100      | 74.9                                    | 75.0                          |  
+| 125      | 73.2                                    | 73.6                          |  
+| 150      | 69.7                                    | 70.5                          |  
+
+### Did polymer self heal after  
+not specified
+
+### How was healing quantified  
+not specified
+
+### Environmental limits tested  
+radiation dose, radiation types
+
+### What was is tested for  
+radiation resistance, electrical properties, mechanical performance of motors, degradataion, effect of polymer modification
+
+### Test LEO or space conditions  
+No
+
+### Key findings  
+Al flakes improved radiation resistance, 50x higher, they mitigated degradation caused by radiation,
+
+### Limitations/missing tests  
+temp/vacuum, long term aging and durability, self-healing, realistic conditions, outgassing and volatile release, testing under LEO or actual space conditions
