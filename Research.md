@@ -50,7 +50,7 @@ pure PMMA = 3.2nm/min etch depth 96nm over 30m
 **Limitations/missing tests**  
 variable temps, vacuum during radiation expo, humidity, radiation dose rates
 
-2. # Polymer-Composite Materials for Radiation Protection
+# 2. Polymer-Composite Materials for Radiation Protection
 
 **Authors + Year**  
 Shruti Nambiar†,‡ and John T. W. Yeow, 2012
