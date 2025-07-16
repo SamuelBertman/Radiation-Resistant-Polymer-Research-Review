@@ -168,3 +168,54 @@ Al flakes improved radiation resistance, 50x higher, they mitigated degradation 
 
 ### Limitations/missing tests  
 temp/vacuum, long term aging and durability, self-healing, realistic conditions, outgassing and volatile release, testing under LEO or actual space conditions
+
+**Paper title**  
+# 4. Radiation and industrial polymers
+
+**Authors + year**  
+A. Bhattacharya, 2000
+
+**Link**  
+[https://pcm.annas-archive.org/scidb/10.1016/s0079-6700(00)00009-5/](https://pcm.annas-archive.org/scidb/10.1016/s0079-6700(00)00009-5/)
+
+**What Polymer/blend**  
+cotton fibre
+
+**Modified/reinforced**  
+modified - via crosslinking and radiation grafting
+
+**Radiation type tested**  
+gamma and e-beam
+
+**Temperature/vacuum conditions**  
+not specified
+
+**Properties tested before/after**  
+electrical resistivity + conductivity, mechanical strength + thermal, durability (resistance to degradation), chemical resistance, fouling resistance, membrane permeability
+
+**Was there measurable degradation**  
+not measured, improved resistance to degradation mentioned thou from the grafting and cross-linking
+
+**Any quantified efficiency**  
+not specified
+
+**Did polymer self heal after**  
+not specified
+
+**How was healing quantified**  
+not specified
+
+**Environmental limits tested**  
+chemical, environmental, thermal stability
+
+**What was is tested for**  
+radiation cross-linking and radiation-induced grafting
+
+**Test LEO or space conditions**  
+not specified
+
+**Key findings**  
+radiation crosslinking effectively improves their properties, 
+
+**Limitations/missing tests**  
+temp, vacuum, pressure, exposure time
