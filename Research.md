@@ -1,5 +1,4 @@
-# 1. **Paper title**  
-Radiation resistant polymer–carbon nanotube nanocomposite thin films
+# 1. Radiation resistant polymer–carbon nanotube nanocomposite thin films
 
 **Authors + year**  
 Ebrahim Najafi, Kwanwoo Shin 2004
